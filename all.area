@@ -35,3 +35,8 @@ cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch
 # X(Twittter)
 parse-cidr https://api.ipapi.is/?q=AS13414
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
+# Github
+parse-cidr https://api.ipapi.is/?q=AS36459
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
