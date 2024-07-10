@@ -1,2 +1,29 @@
 dig gist.github.com
-dig www.google.com
+
+# Telegram
+cidr https://core.telegram.org/resources/cidr.txt
+# Cloudflare
+cidr https://www.cloudflare.com/ips-v4/
+cidr https://www.cloudflare.com/ips-v6/
+
+# Gooooooogle
+parse-cidr https://www.gstatic.com/ipranges/goog.json
+jq --raw-output '.prefixes[].ipv4Prefix,.prefixes[].ipv6Prefix | select(. != null)'
+
+parse-cidr https://www.gstatic.com/ipranges/cloud.json
+jq --raw-output '.prefixes[].ipv4Prefix,.prefixes[].ipv6Prefix | select(. != null)'
+
+# Fastly
+parse-cidr https://api.fastly.com/public-ip-list
+jq --raw-output '.addresses[],.ipv6_addresses[]'
+
+# Amazon
+parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
+jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "CLOUDFRONT") | .ip_prefix,.ipv6_prefix | select(. != null)'
+
+https://ip-ranges.amazonaws.com/ip-ranges.json
+jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELERATOR") | .ip_prefix,.ipv6_prefix | select(. != null)'
+
+# Anycast
+parse-cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v4-prefixes.txt 45.87.103.1 2400:8a20:191::1 anycast
+parse-cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v6-prefixes.txt 45.87.103.1 2400:8a20:191::1 anycast
