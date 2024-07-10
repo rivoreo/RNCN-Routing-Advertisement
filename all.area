@@ -5,6 +5,7 @@ dig github.com
 dig api.github.com
 dig api.x.com
 dig x.com
+dig twitter.com
 
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
