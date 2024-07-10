@@ -1,5 +1,7 @@
 # Dig
 dig gist.github.com
+dig api.x.com
+dig x.com
 
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
