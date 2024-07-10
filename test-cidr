@@ -1,4 +1,0 @@
-cidr https://core.telegram.org/resources/cidr.txt
-cidr https://www.cloudflare.com/ips-v4/
-# Comment
-cidr https://www.cloudflare.com/ips-v6/ 
