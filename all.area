@@ -31,3 +31,7 @@ jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELE
 # Anycast
 cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v4-prefixes.txt
 cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v6-prefixes.txt
+
+# X(Twittter)
+cidr https://api.ipapi.is/?q=AS13414
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
