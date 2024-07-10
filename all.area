@@ -1,5 +1,8 @@
 # Dig
 dig gist.github.com
+dig www.github.com
+dig github.com
+dig api.github.com
 dig api.x.com
 dig x.com
 
