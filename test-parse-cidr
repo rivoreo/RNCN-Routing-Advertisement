@@ -1,0 +1,1 @@
+parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json "jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == \"CLOUDFRONT\") | .ip_prefix,.ipv6_prefix | select(. != null)'"
