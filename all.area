@@ -3,6 +3,7 @@ dig gist.github.com
 
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
+
 # Cloudflare
 cidr https://www.cloudflare.com/ips-v4/
 cidr https://www.cloudflare.com/ips-v6/
@@ -22,7 +23,7 @@ jq --raw-output '.addresses[],.ipv6_addresses[]'
 parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
 jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "CLOUDFRONT") | .ip_prefix,.ipv6_prefix | select(. != null)'
 
-https://ip-ranges.amazonaws.com/ip-ranges.json
+parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
 jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELERATOR") | .ip_prefix,.ipv6_prefix | select(. != null)'
 
 # Anycast
