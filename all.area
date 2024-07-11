@@ -36,20 +36,37 @@ dig subscriptions-dev.duckduckgo.com
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
 
+# CDN
+# Akamai
+parse-cidr https://api.ipapi.is/?q=AS12222
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
+parse-cidr https://api.ipapi.is/?q=AS16625
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
+# Cachefly
+cidr https://cachefly.cachefly.net/ips/rproxy.txt
+cidr https://cachefly.cachefly.net/ips/cdn.txt
+
+# CDNetworks
+parse-cidr https://api.ipapi.is/?q=AS36408
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
 # Cloudflare
 cidr https://www.cloudflare.com/ips-v4/
 cidr https://www.cloudflare.com/ips-v6/
 
-# Gooooooogle
-parse-cidr https://www.gstatic.com/ipranges/goog.json
-jq --raw-output '.prefixes[].ipv4Prefix,.prefixes[].ipv6Prefix | select(. != null)'
-
-parse-cidr https://www.gstatic.com/ipranges/cloud.json
-jq --raw-output '.prefixes[].ipv4Prefix,.prefixes[].ipv6Prefix | select(. != null)'
+#DDoS Guard
+parse-cidr https://api.ipapi.is/?q=AS57724
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Fastly
 parse-cidr https://api.fastly.com/public-ip-list
 jq --raw-output '.addresses[],.ipv6_addresses[]'
+
+# Incapsula
+parse-cidr https://my.incapsula.com/api/integration/v1/ips
+jq --raw-output '.ipRanges[],.ipv6Ranges[]'
 
 # Amazon
 parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
@@ -57,6 +74,15 @@ jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "CLOUDFRONT")
 
 parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
 jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELERATOR") | .ip_prefix,.ipv6_prefix | select(. != null)'
+
+# End of CDN
+
+# Gooooooogle
+parse-cidr https://www.gstatic.com/ipranges/goog.json
+jq --raw-output '.prefixes[].ipv4Prefix,.prefixes[].ipv6Prefix | select(. != null)'
+
+parse-cidr https://www.gstatic.com/ipranges/cloud.json
+jq --raw-output '.prefixes[].ipv4Prefix,.prefixes[].ipv6Prefix | select(. != null)'
 
 # Anycast
 cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v4-prefixes.txt
@@ -67,6 +93,6 @@ parse-cidr https://api.ipapi.is/?q=AS13414
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Github
-parse-cidr https://api.ipapi.is/?q=AS36459
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+parse-cidr https://api.github.com/meta
+jq --raw-output '.hooks[],.web[],.api[],.git[],.github_enterprise_importer[],.packages[],.pages[],.importer[],.actions[],.actions_macos[],.dependabot[]'
 
