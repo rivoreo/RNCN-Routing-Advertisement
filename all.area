@@ -78,7 +78,8 @@ jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELE
 # End of CDN
 
 # Azure
-# TODO: https://github.com/femueller/cloud-ip-ranges/blob/master/microsoft-azure-ip-ranges.json
+parse-cidr https://raw.githubusercontent.com/femueller/cloud-ip-ranges/master/microsoft-azure-ip-ranges.json
+jq --raw-output '.values[] | .properties | .addressPrefixes[]'
 
 # Gooooooogle
 parse-cidr https://www.gstatic.com/ipranges/goog.json
