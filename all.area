@@ -111,3 +111,11 @@ jq --raw-output '.hooks[],.web[],.api[],.git[],.github_enterprise_importer[],.pa
 parse-cidr https://api.ipapi.is/?q=AS11251
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
+# Netflix
+dig backlot-api.prod.netflix.net
+dig contenthub.netflixstudios.com
+dig pegasusasperaprod.us-east-1.dynprod.netflix.net
+cidr https://raw.githubusercontent.com/JohnnySun/RNCN-Routing-Advertisement/master/ip-ranges/netflix.cidr
+dig meechum.netflix.com
+
+
