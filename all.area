@@ -78,6 +78,10 @@ jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "CLOUDFRONT")
 parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
 jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELERATOR") | .ip_prefix,.ipv6_prefix | select(. != null)'
 
+# GCore
+parse-cidr https://api.gcore.com/cdn/public-ip-list
+jq --raw-output '.addresses[],.addresses_v6[]'
+
 # End of CDN
 
 # AzureCloud
