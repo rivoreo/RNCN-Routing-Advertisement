@@ -118,4 +118,6 @@ dig pegasusasperaprod.us-east-1.dynprod.netflix.net
 cidr https://raw.githubusercontent.com/JohnnySun/RNCN-Routing-Advertisement/master/ip-ranges/netflix.cidr
 dig meechum.netflix.com
 
-
+# Wikimedia
+parse-cidr https://api.ipapi.is/?q=AS14907
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
