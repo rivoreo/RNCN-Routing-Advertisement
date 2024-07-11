@@ -64,6 +64,13 @@ jq --raw-output '.addresses[],.ipv6_addresses[]'
 parse-cidr https://my.incapsula.com/api/integration/v1/ips
 jq --raw-output '.ipRanges[],.ipv6Ranges[]'
 
+# StackPath
+parse-cidr https://api.ipapi.is/?q=AS33438
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
+parse-cidr https://api.ipapi.is/?q=AS20446
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
 # Amazon
 parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
 jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "CLOUDFRONT") | .ip_prefix,.ipv6_prefix | select(. != null)'
