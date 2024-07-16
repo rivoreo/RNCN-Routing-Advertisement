@@ -32,6 +32,9 @@ dig subscriptions-dev.duckduckgo.com
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
 
+parse-cidr https://api.ipapi.is/?q=AS62041
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
 # CDN
 # Akamai
 parse-cidr https://api.ipapi.is/?q=AS12222
