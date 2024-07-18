@@ -124,3 +124,7 @@ dig meechum.netflix.com
 # Wikimedia
 parse-cidr https://api.ipapi.is/?q=AS14907
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
+# Automattic
+parse-cidr https://api.ipapi.is/?q=AS2635
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
