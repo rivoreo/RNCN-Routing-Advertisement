@@ -67,6 +67,10 @@ cidr https://www.cloudflare.com/ips-v6/
 parse-cidr https://api.ipapi.is/?q=AS57724
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
+# Edgio (EdgeCast)
+parse-cidr https://api.ipapi.is/?q=AS15133
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
 # Fastly
 parse-cidr https://api.fastly.com/public-ip-list
 jq --raw-output '.addresses[],.ipv6_addresses[]'
