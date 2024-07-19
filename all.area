@@ -43,9 +43,17 @@ jq --raw-output '.prefixes[],.prefixesIPv6[]'
 parse-cidr https://api.ipapi.is/?q=AS16625
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
+# Bunny CDN
+parse-cidr https://api.ipapi.is/?q=AS200325
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
+
 # Cachefly
 cidr https://cachefly.cachefly.net/ips/rproxy.txt
 cidr https://cachefly.cachefly.net/ips/cdn.txt
+
+# CDN77
+parse-cidr https://api.ipapi.is/?q=AS60068
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # CDNetworks
 parse-cidr https://api.ipapi.is/?q=AS36408
@@ -84,6 +92,10 @@ jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELE
 # GCore
 parse-cidr https://api.gcore.com/cdn/public-ip-list
 jq --raw-output '.addresses[],.addresses_v6[]'
+
+# LightCDN
+parse-cidr https://api.ipapi.is/?q=AS138915
+jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # End of CDN
 
