@@ -32,19 +32,19 @@ dig subscriptions-dev.duckduckgo.com
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
 
-parse-cidr https://api.ipapi.is/?q=AS62041 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS62041
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS62041 https://api.ipapi.is/?q=AS62041 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS62041
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # CDN
 # Akamai
-parse-cidr https://api.ipapi.is/?q=AS12222 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS12222
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS12222 https://api.ipapi.is/?q=AS12222 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS12222
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
-parse-cidr https://api.ipapi.is/?q=AS16625 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS16625
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS16625 https://api.ipapi.is/?q=AS16625 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS16625
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Bunny CDN
-parse-cidr https://api.ipapi.is/?q=AS200325 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS200325
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS200325 https://api.ipapi.is/?q=AS200325 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS200325
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Cachefly
@@ -52,11 +52,11 @@ cidr https://cachefly.cachefly.net/ips/rproxy.txt
 cidr https://cachefly.cachefly.net/ips/cdn.txt
 
 # CDN77
-parse-cidr https://api.ipapi.is/?q=AS60068 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS60068
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS60068 https://api.ipapi.is/?q=AS60068 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS60068
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # CDNetworks
-parse-cidr https://api.ipapi.is/?q=AS36408 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS36408
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS36408 https://api.ipapi.is/?q=AS36408 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS36408
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Cloudflare
@@ -64,11 +64,11 @@ cidr https://www.cloudflare.com/ips-v4/
 cidr https://www.cloudflare.com/ips-v6/
 
 #DDoS Guard
-parse-cidr https://api.ipapi.is/?q=AS57724 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS57724
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS57724 https://api.ipapi.is/?q=AS57724 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS57724
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Edgio (EdgeCast)
-parse-cidr https://api.ipapi.is/?q=AS15133 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS15133
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS15133 https://api.ipapi.is/?q=AS15133 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS15133
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Fastly
@@ -80,10 +80,10 @@ parse-cidr https://my.incapsula.com/api/integration/v1/ips
 jq --raw-output '.ipRanges[],.ipv6Ranges[]'
 
 # StackPath
-parse-cidr https://api.ipapi.is/?q=AS33438 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS33438
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS33438 https://api.ipapi.is/?q=AS33438 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS33438
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
-parse-cidr https://api.ipapi.is/?q=AS20446 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS20446
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS20446 https://api.ipapi.is/?q=AS20446 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS20446
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Amazon
@@ -98,7 +98,7 @@ parse-cidr https://api.gcore.com/cdn/public-ip-list
 jq --raw-output '.addresses[],.addresses_v6[]'
 
 # LightCDN
-parse-cidr https://api.ipapi.is/?q=AS138915 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS138915
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS138915 https://api.ipapi.is/?q=AS138915 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS138915
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # End of CDN
@@ -119,7 +119,7 @@ cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch
 cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v6-prefixes.txt
 
 # X(Twittter)
-parse-cidr https://api.ipapi.is/?q=AS13414 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS13414
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS13414 https://api.ipapi.is/?q=AS13414 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS13414
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Github
@@ -127,7 +127,7 @@ parse-cidr https://api.github.com/meta
 jq --raw-output '.hooks[],.web[],.api[],.git[],.github_enterprise_importer[],.packages[],.pages[],.importer[],.actions[],.actions_macos[],.dependabot[]'
 
 # DisneyPlus
-parse-cidr https://api.ipapi.is/?q=AS11251 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS11251
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS11251 https://api.ipapi.is/?q=AS11251 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS11251
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Netflix
@@ -138,9 +138,9 @@ cidr https://raw.githubusercontent.com/JohnnySun/RNCN-Routing-Advertisement/mast
 dig meechum.netflix.com
 
 # Wikimedia
-parse-cidr https://api.ipapi.is/?q=AS14907 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS14907
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS14907 https://api.ipapi.is/?q=AS14907 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS14907
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
 
 # Automattic
-parse-cidr https://api.ipapi.is/?q=AS2635 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS2635
+parse-cidr https://cdn.rncn.net/ipapi/?q=AS2635 https://api.ipapi.is/?q=AS2635 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS2635
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
