@@ -4,9 +4,6 @@ dig x.com
 dig twitter.com
 dig chinese.aljazeera.net
 
-# Docker
-dig hub.docker.com
-
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
 
