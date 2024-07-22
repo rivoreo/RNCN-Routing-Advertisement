@@ -1,3 +1,6 @@
+# Docker
+dig hub.docker.com
+
 # Internet Archive AS7941
 parse-cidr https://cdn.rncn.net/ipapi/?q=AS7941 https://api.ipapi.is/?q=AS7941 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS7941
 jq --raw-output '.prefixes[],.prefixesIPv6[]'
