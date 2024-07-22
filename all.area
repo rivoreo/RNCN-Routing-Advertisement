@@ -4,30 +4,8 @@ dig x.com
 dig twitter.com
 dig chinese.aljazeera.net
 
-# duckduckgo.com
-dig duckduckgo.com
-dig duckduckbot-1.duckduckgo.com
-dig use-dng1.duckduckgo.com
-dig eun-dng1.duckduckgo.com
-dig smtpmailer1.duckduckgo.com
-dig duckduckbot-2.duckduckgo.com
-dig duckduckbot-4.duckduckgo.com
-dig duckduckbot-5.duckduckgo.com
-dig duckduckbot-6.duckduckgo.com
-dig duckduckbot-7.duckduckgo.com
-dig duckduckbot-8.duckduckgo.com
-dig duckduckbot-9.duckduckgo.com
-dig sync.duckduckgo.com
-dig safe.duckduckgo.com
-dig dev-sync-use.duckduckgo.com
-dig email.duckduckgo.com
-dig staging1.netp.duckduckgo.com
-dig staging.netp.duckduckgo.com
-dig mailer.duckduckgo.com
-dig links.duckduckgo.com
-dig external-content.duckduckgo.com
-dig emaildev.duckduckgo.com
-dig subscriptions-dev.duckduckgo.com
+# Docker
+dig hub.docker.com
 
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
