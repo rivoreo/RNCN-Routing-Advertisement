@@ -5,14 +5,7 @@ dig hub.docker.com
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/NA_US_IPV6.cidr
 
-# Dig
-dig api.x.com
-dig x.com
-dig twitter.com
-dig chinese.aljazeera.net
-
 # Telegram
-cidr https://core.telegram.org/resources/cidr.txt
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/NA_US_IPV6.cidr
 
@@ -28,8 +21,6 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/NA
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/NA_US_IPV6.cidr
 
 # Cachefly
-cidr https://cachefly.cachefly.net/ips/rproxy.txt
-cidr https://cachefly.cachefly.net/ips/cdn.txt
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/NA_US_IPV6.cidr
 
@@ -42,8 +33,6 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/NA_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/NA_US_IPV6.cidr
 
 # Cloudflare
-cidr https://www.cloudflare.com/ips-v4/
-cidr https://www.cloudflare.com/ips-v6/
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/NA_US_IPV6.cidr
 
