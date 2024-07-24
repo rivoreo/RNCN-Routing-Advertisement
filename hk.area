@@ -1,68 +1,68 @@
 # Telegram
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/AS_HK_IPV6.cidr
 
 # CDN
 # Akamai
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/AS_HK_IPV6.cidr
 
 
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/AS_HK_IPV6.cidr
 
 # Bunny CDN
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/AS_HK_IPV6.cidr
 
 # Cachefly
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/AS_HK_IPV6.cidr
 
 # CDN77
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS60068/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS60068/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS60068/AS_HK_IPV6.cidr
 
 # CDNetworks
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/AS_HK_IPV6.cidr
 
 # Cloudflare
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/AS_HK_IPV6.cidr
 
 #DDoS Guard
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS57724/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS57724/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS57724/AS_HK_IPV6.cidr
 
 # Edgio (EdgeCast)
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS15133/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS15133/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS15133/AS_HK_IPV6.cidr
 
 # Fastly
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS54113/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS54113/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS54113/AS_HK_IPV6.cidr
 
 # Incapsula
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19551/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19551/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19551/AS_HK_IPV6.cidr
 
 # StackPath
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/AS_HK_IPV6.cidr
 
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/AS_HK_IPV6.cidr
 
 # Amazon
 
 # GCore
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/AS_HK_IPV6.cidr
 
 # LightCDN
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/AS_HK_IPV6.cidr
 
 # End of CDN
 
@@ -72,25 +72,25 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/AS
 
 # X(Twittter)
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/AS_HK_IPV6.cidr
 
 # Github
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/AS_HK_IPV6.cidr
 
 # DisneyPlus
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/AS_HK_IPV6.cidr
 
 # Netflix
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2906/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2906/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2906/AS_HK_IPV6.cidr
 
 
 # Wikimedia
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14907/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14907/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14907/AS_HK_IPV6.cidr
 
 # Automattic
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/AS_HK_IPV6.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/AS_HK_IPV6.cidr
