@@ -6,60 +6,66 @@ dig chinese.aljazeera.net
 
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
-
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS62041 https://api.ipapi.is/?q=AS62041 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS62041
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/IPV6.cidr
 
 # CDN
 # Akamai
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS12222 https://api.ipapi.is/?q=AS12222 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS12222
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
-
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS16625 https://api.ipapi.is/?q=AS16625 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS16625
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/IPV6.cidr
 
 # Bunny CDN
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS200325 https://api.ipapi.is/?q=AS200325 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS200325
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/IPV6.cidr
 
 # Cachefly
 cidr https://cachefly.cachefly.net/ips/rproxy.txt
 cidr https://cachefly.cachefly.net/ips/cdn.txt
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/IPV6.cidr
 
 # CDN77
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS60068 https://api.ipapi.is/?q=AS60068 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS60068
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS60068/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS60068/IPV6.cidr
 
 # CDNetworks
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS36408 https://api.ipapi.is/?q=AS36408 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS36408
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/IPV6.cidr
 
 # Cloudflare
 cidr https://www.cloudflare.com/ips-v4/
 cidr https://www.cloudflare.com/ips-v6/
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/IPV6.cidr
 
 #DDoS Guard
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS57724 https://api.ipapi.is/?q=AS57724 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS57724
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS57724/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS57724/IPV6.cidr
 
 # Edgio (EdgeCast)
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS15133 https://api.ipapi.is/?q=AS15133 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS15133
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS15133/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS15133/IPV6.cidr
 
 # Fastly
 parse-cidr https://api.fastly.com/public-ip-list
 jq --raw-output '.addresses[],.ipv6_addresses[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS54113/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS54113/IPV6.cidr
 
 # Incapsula
 parse-cidr https://my.incapsula.com/api/integration/v1/ips
 jq --raw-output '.ipRanges[],.ipv6Ranges[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19551/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19551/IPV6.cidr
 
 # StackPath
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS33438 https://api.ipapi.is/?q=AS33438 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS33438
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/IPV6.cidr
 
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS20446 https://api.ipapi.is/?q=AS20446 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS20446
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/IPV6.cidr
 
 # Amazon
 parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
@@ -72,9 +78,12 @@ jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELE
 parse-cidr https://api.gcore.com/cdn/public-ip-list
 jq --raw-output '.addresses[],.addresses_v6[]'
 
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/IPV6.cidr
+
 # LightCDN
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS138915 https://api.ipapi.is/?q=AS138915 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS138915
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/IPV6.cidr
 
 # End of CDN
 
@@ -94,28 +103,33 @@ cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch
 cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v6-prefixes.txt
 
 # X(Twittter)
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS13414 https://api.ipapi.is/?q=AS13414 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS13414
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/IPV6.cidr
 
 # Github
 parse-cidr https://api.github.com/meta
 jq --raw-output '.hooks[],.web[],.api[],.git[],.github_enterprise_importer[],.packages[],.pages[],.importer[],.actions[],.actions_macos[],.dependabot[]'
 
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/IPV6.cidr
+
 # DisneyPlus
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS11251 https://api.ipapi.is/?q=AS11251 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS11251
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/IPV6.cidr
 
 # Netflix
 dig backlot-api.prod.netflix.net
 dig contenthub.netflixstudios.com
 dig pegasusasperaprod.us-east-1.dynprod.netflix.net
-cidr https://raw.githubusercontent.com/JohnnySun/RNCN-Routing-Advertisement/master/ip-ranges/netflix.cidr
 dig meechum.netflix.com
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2906/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2906/IPV6.cidr
+
 
 # Wikimedia
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS14907 https://api.ipapi.is/?q=AS14907 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS14907
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14907/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14907/IPV6.cidr
 
 # Automattic
-parse-cidr https://cdn.rncn.net/ipapi/?q=AS2635 https://api.ipapi.is/?q=AS2635 https://api.ipapi.is/?key=66f9cd95c84565c9&q=AS2635
-jq --raw-output '.prefixes[],.prefixesIPv6[]'
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/IPV6.cidr
