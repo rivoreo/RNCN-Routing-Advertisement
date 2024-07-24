@@ -28,7 +28,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/AS_
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/AS_HK_IPV6.cidr
 
 # Cloudflare
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/AS_HK_IPV4.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/AS_HK_IPV4.cidr
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/AS_HK_IPV6.cidr
 
 #DDoS Guard
