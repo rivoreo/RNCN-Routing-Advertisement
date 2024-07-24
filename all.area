@@ -12,7 +12,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/IPV
 # CDN
 # Akamai
 cidr https://github.com/SecOps-Institute/Akamai-ASN-and-IPs-List/raw/master/akamai_ip_cidr_blocks.lst
-cidr https://github.com/SecOps-Institute/Akamai-ASN-and-IPs-List/blob/master/akamai_ipv6_list.lst
+cidr https://github.com/SecOps-Institute/Akamai-ASN-and-IPs-List/raw/master/akamai_ipv6_list.lst
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/IPV4.cidr
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/IPV6.cidr
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/IPV4.cidr
