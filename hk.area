@@ -94,3 +94,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14907/AS_
 # Automattic
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/AS_HK_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/AS_HK_IPV6.cidr
+
+# Bytedance, Inc. (TikTok)
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/AS_HK_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/AS_HK_IPV6.cidr
