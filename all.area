@@ -19,6 +19,15 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS211157/IP
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS44907/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS44907/IPV6.cidr
 
+# Amazon
+#parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
+#jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "CLOUDFRONT") | .ip_prefix,.ipv6_prefix | select(. != null)'
+#parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
+#jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELERATOR") | .ip_prefix,.ipv6_prefix | select(. != null)'
+
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/IPV6.cidr
+
 # CDN
 # Akamai
 #cidr https://github.com/SecOps-Institute/Akamai-ASN-and-IPs-List/raw/master/akamai_ip_cidr_blocks.lst
@@ -160,13 +169,6 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/IPV
 
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/IPV6.cidr
-
-# Amazon
-parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
-jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "CLOUDFRONT") | .ip_prefix,.ipv6_prefix | select(. != null)'
-
-parse-cidr https://ip-ranges.amazonaws.com/ip-ranges.json
-jq --raw-output '.prefixes[],.ipv6_prefixes[] | select(.service == "GLOBALACCELERATOR") | .ip_prefix,.ipv6_prefix | select(. != null)'
 
 # GCore
 parse-cidr https://api.gcore.com/cdn/public-ip-list

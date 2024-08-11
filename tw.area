@@ -2,6 +2,10 @@
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/AS_TW_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/AS_TW_IPV6.cidr
 
+# Amazon
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/AS_TW_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/AS_TW_IPV6.cidr
+
 # CDN
 # Akamai
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/AS_TW_IPV4.cidr
