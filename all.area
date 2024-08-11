@@ -194,9 +194,6 @@ jq --raw-output '.prefixes[].ipv4Prefix,.prefixes[].ipv6Prefix | select(. != nul
 parse-cidr https://www.gstatic.com/ipranges/cloud.json
 jq --raw-output '.prefixes[].ipv4Prefix,.prefixes[].ipv6Prefix | select(. != null)'
 
-# Anycast
-cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v4-prefixes.txt
-cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v6-prefixes.txt
 
 # X(Twittter)
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/IPV4.cidr
@@ -237,3 +234,9 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/IPV6
 # Internet Archive AS7941
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/IPV6.cidr
+
+end-fallback
+
+# Anycast
+cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v4-prefixes.txt
+cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v6-prefixes.txt
