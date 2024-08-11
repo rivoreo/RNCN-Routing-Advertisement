@@ -8,8 +8,12 @@ dig chinese.aljazeera.net
 
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS59930/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS59930/IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62014/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62014/IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS211157/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS211157/IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS44907/IPV4.cidr
@@ -227,3 +231,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/IPV6
 # Bytedance, Inc. (TikTok)
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/IPV4.cidr
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/IPV6.cidr
+
+# Internet Archive AS7941
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/IPV6.cidr
