@@ -1,0 +1,178 @@
+# Internet Archive AS7941
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/NA_MX_IPV6.cidr
+
+# Amazon
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/NA_MX_IPV6.cidr
+
+# CDN
+# Akamai
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16702/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS17204/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS18680/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS18717/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20189/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20940/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21342/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21357/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21399/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS22207/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS22452/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23454/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23455/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23903/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS24319/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS26008/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30675/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31107/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31108/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31109/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31110/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31377/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33047/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33905/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS34164/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS34850/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS35204/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS35993/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS35994/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36183/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS39836/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS43639/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55409/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55770/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS63949/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS133103/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393560/NA_MX_IPV4.cidr
+
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16702/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS17204/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS18680/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS18717/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20189/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20940/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21342/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21357/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21399/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS22207/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS22452/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23454/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23455/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23903/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS24319/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS26008/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30675/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31107/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31108/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31109/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31110/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31377/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33047/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33905/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS34164/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS34850/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS35204/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS35993/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS35994/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36183/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS39836/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS43639/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55409/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55770/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS63949/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS133103/NA_MX_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393560/NA_MX_IPV6.cidr
+
+
+# Bunny CDN
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/NA_MX_IPV6.cidr
+
+# Cachefly
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS30081/NA_MX_IPV6.cidr
+
+# CDN77
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS60068/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS60068/NA_MX_IPV6.cidr
+
+# CDNetworks
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/NA_MX_IPV6.cidr
+
+# Cloudflare
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/NA_MX_IPV4.cidr
+#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/NA_MX_IPV6.cidr
+
+#DDoS Guard
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS57724/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS57724/NA_MX_IPV6.cidr
+
+# Edgio (EdgeCast)
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS15133/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS15133/NA_MX_IPV6.cidr
+
+# Fastly
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS54113/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS54113/NA_MX_IPV6.cidr
+
+# Incapsula
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19551/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19551/NA_MX_IPV6.cidr
+
+# StackPath
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/NA_MX_IPV6.cidr
+
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/NA_MX_IPV6.cidr
+
+# Amazon
+
+# GCore
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/NA_MX_IPV6.cidr
+
+# LightCDN
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/NA_MX_IPV6.cidr
+
+# End of CDN
+
+# AzureCloud
+
+# Gooooooogle
+
+# X(Twittter)
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/NA_MX_IPV6.cidr
+
+# Github
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/NA_MX_IPV6.cidr
+
+# DisneyPlus
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/NA_MX_IPV6.cidr
+
+# Netflix
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2906/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2906/NA_MX_IPV6.cidr
+
+
+# Wikimedia
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14907/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14907/NA_MX_IPV6.cidr
+
+# Automattic
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/NA_MX_IPV6.cidr
+
+# Bytedance, Inc. (TikTok)
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/NA_MX_IPV6.cidr
