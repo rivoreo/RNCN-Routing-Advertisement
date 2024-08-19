@@ -21,6 +21,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS44907/NA_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/NA_US_IPV6.cidr
 
+# AzureCloud
 parse-cidr https://raw.githubusercontent.com/femueller/cloud-ip-ranges/master/microsoft-azure-ip-ranges.json
 jq --raw-output '.values[] | select(.name | test("^AzureCloud\\..*(US|us)")) | .properties | select(.systemService=="") | .addressPrefixes[]'
 
