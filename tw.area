@@ -8,7 +8,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/AS_
 
 # AzureCloud
 parse-cidr https://raw.githubusercontent.com/femueller/cloud-ip-ranges/master/microsoft-azure-ip-ranges.json
-jq --raw-output '.values[] | select(.name | test("^AzureCloud\\..*(taiwan)")) | .properties | select(.systemService=="") | .addressPrefixes[]'
+jq --raw-output '.values[] | select(.name | test("^AzureCloud\..*(taiwan)")) | .properties | select(.systemService=="") | .addressPrefixes[]'
 
 # Gooooooogle
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS15169/AS_TW_IPV4.cidr
