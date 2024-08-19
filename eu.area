@@ -84,6 +84,12 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55770/EU_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS63949/EU_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS133103/EU_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393560/EU_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200005/EU_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS213120/EU_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31984/EU_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32787/EU_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393234/EU_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS49846/EU_ALL_IPV4.cidr
 
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/EU_ALL_IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/EU_ALL_IPV6.cidr
@@ -124,6 +130,12 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55770/EU_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS63949/EU_ALL_IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS133103/EU_ALL_IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393560/EU_ALL_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200005/EU_ALL_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS213120/EU_ALL_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31984/EU_ALL_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32787/EU_ALL_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393234/EU_ALL_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS49846/EU_ALL_IPV6.cidr
 
 
 # Bunny CDN

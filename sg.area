@@ -84,6 +84,12 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55770/AS_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS63949/AS_SG_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS133103/AS_SG_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393560/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200005/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS213120/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31984/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32787/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393234/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS49846/AS_SG_IPV4.cidr
 
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/AS_SG_IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/AS_SG_IPV6.cidr
@@ -124,6 +130,12 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55770/AS_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS63949/AS_SG_IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS133103/AS_SG_IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393560/AS_SG_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200005/AS_SG_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS213120/AS_SG_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31984/AS_SG_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32787/AS_SG_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393234/AS_SG_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS49846/AS_SG_IPV6.cidr
 
 
 # Bunny CDN

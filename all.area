@@ -71,6 +71,12 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55770/IPV
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS63949/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS133103/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393560/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200005/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS213120/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31984/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32787/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393234/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS49846/IPV4.cidr
 
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/IPV6.cidr
@@ -111,13 +117,12 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS55770/IPV
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS63949/IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS133103/IPV6.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393560/IPV6.cidr
-
-#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/IPV4.cidr
-#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/IPV6.cidr
-#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/IPV4.cidr
-#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16625/IPV6.cidr
-#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20940/IPV4.cidr
-#cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20940/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200005/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS213120/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS31984/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32787/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS393234/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS49846/IPV6.cidr
 
 # Bunny CDN
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200325/IPV4.cidr
