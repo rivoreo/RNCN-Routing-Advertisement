@@ -6,6 +6,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/AS_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/AS_JP_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/AS_JP_IPV6.cidr
 
+# AzureCloud
+parse-cidr https://raw.githubusercontent.com/femueller/cloud-ip-ranges/master/microsoft-azure-ip-ranges.json
+jq --raw-output '.values[] | select(.name | test("^AzureCloud\\..*(japan)")) | .properties | select(.systemService=="") | .addressPrefixes[]'
+
 # CDN
 # Akamai
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/AS_JP_IPV4.cidr
