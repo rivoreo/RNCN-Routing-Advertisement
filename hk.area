@@ -177,6 +177,8 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/AS_
 # GCore
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/AS_HK_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/AS_HK_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS202422/AS_HK_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS202422/AS_HK_IPV6.cidr
 
 # LightCDN
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/AS_HK_IPV4.cidr

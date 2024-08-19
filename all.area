@@ -181,6 +181,8 @@ jq --raw-output '.addresses[],.addresses_v6[]'
 
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS202422/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS202422/IPV6.cidr
 
 # LightCDN
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/IPV4.cidr
