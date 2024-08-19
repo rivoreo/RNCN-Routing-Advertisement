@@ -14,6 +14,11 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS44907/EU_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/EU_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/EU_ALL_IPV6.cidr
 
+# AzureCloud
+parse-cidr https://raw.githubusercontent.com/femueller/cloud-ip-ranges/master/microsoft-azure-ip-ranges.json
+jq --raw-output '.values[] | select(.name | test("^AzureCloud\\..*(france｜germany｜israel｜italy｜europe｜norway|poland|sweden|switzerland|uk)")) | .properties | select(.systemService=="") | .addressPrefixes[]'
+
+
 # CDN
 # Akamai
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/EU_ALL_IPV4.cidr

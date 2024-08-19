@@ -6,6 +6,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/NA_M
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/NA_MX_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/NA_MX_IPV6.cidr
 
+# AzureCloud
+parse-cidr https://raw.githubusercontent.com/femueller/cloud-ip-ranges/master/microsoft-azure-ip-ranges.json
+jq --raw-output '.values[] | select(.name | test("^AzureCloud\\..*(mexico)")) | .properties | select(.systemService=="") | .addressPrefixes[]'
+
 # CDN
 # Akamai
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS12222/NA_MX_IPV4.cidr
