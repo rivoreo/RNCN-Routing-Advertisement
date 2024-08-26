@@ -234,3 +234,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/NA_U
 # Bytedance, Inc. (TikTok)
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/NA_US_IPV6.cidr
+
+#AS139341 ACE qq.com
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/NA_US_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/NA_US_IPV6.cidr
