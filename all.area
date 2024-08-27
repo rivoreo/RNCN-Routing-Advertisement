@@ -242,9 +242,13 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/IPV6
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/IPV6.cidr
 
+#AS139341 ACE qq.com
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/ALL_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/ALL_ALL_IPV4.cidr
+
 # Alibaba AS45102
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/ALL_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/ALL_ALL_IPV4.cidr
 
 end-fallback
 
