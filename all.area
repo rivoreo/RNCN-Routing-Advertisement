@@ -242,6 +242,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2635/IPV6
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7941/IPV6.cidr
 
+# Alibaba AS45102
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/IPV6.cidr
+
 end-fallback
 
 # Anycast

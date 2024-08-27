@@ -238,3 +238,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS396986/NA
 #AS139341 ACE qq.com
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/NA_US_IPV6.cidr
+
+# Alibaba AS45102
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/NA_US_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/NA_US_IPV6.cidr
