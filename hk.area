@@ -5,6 +5,8 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS62041/AS_
 # Amazon
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/AS_HK_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS16509/AS_HK_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14618/AS_HK_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS14618/AS_HK_IPV6.cidr
 
 # AzureCloud
 parse-cidr https://raw.githubusercontent.com/femueller/cloud-ip-ranges/master/microsoft-azure-ip-ranges.json
@@ -171,8 +173,6 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS33438/AS_
 
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/AS_HK_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS20446/AS_HK_IPV6.cidr
-
-# Amazon
 
 # GCore
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS199524/AS_HK_IPV4.cidr
