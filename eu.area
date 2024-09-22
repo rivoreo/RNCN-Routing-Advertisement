@@ -167,6 +167,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS60068/EU_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/EU_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36408/EU_ALL_IPV6.cidr
 
+# CDNNow.pro
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21030/EU_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21030/EU_ALL_IPV6.cidr
+
 # Cloudflare
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/EU_ALL_IPV4.cidr
 #cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13335/EU_ALL_IPV6.cidr
