@@ -289,6 +289,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/AL
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/ALL_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/ALL_ALL_IPV4.cidr
 
+# DropBox
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/ALL_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/ALL_ALL_IPV4.cidr
+
 end-fallback
 
 # Anycast

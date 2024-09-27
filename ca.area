@@ -241,3 +241,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/NA
 # Alibaba AS45102
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/NA_CA_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/NA_CA_IPV6.cidr
+
+# DropBox
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/NA_CA_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/NA_CA_IPV6.cidr

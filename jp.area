@@ -240,3 +240,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS139341/AS
 # Alibaba AS45102
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/AS_JP_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/AS_JP_IPV6.cidr
+
+# DropBox
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/AS_JP_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/AS_JP_IPV6.cidr
