@@ -260,3 +260,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/NA_
 # DropBox
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/NA_US_IPV6.cidr
+
+# AS7979 Servers.com, Inc.
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/NA_US_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/NA_US_IPV6.cidr

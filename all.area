@@ -293,6 +293,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/ALL
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/ALL_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/ALL_ALL_IPV4.cidr
 
+# AS7979 Servers.com, Inc.
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/ALL_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/ALL_ALL_IPV4.cidr
+
 end-fallback
 
 # Anycast

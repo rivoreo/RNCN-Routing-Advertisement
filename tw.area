@@ -244,3 +244,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS45102/AS_
 # DropBox
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/AS_TW_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/AS_TW_IPV6.cidr
+
+# AS7979 Servers.com, Inc.
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_TW_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_TW_IPV6.cidr
