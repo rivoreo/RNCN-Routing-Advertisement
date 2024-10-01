@@ -247,3 +247,8 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/AS_
 # AS7979 Servers.com, Inc.
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_HK_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_HK_IPV6.cidr
+
+# for RoyLi
+cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v4.ra
+cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v6.ra
+
