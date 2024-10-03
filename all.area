@@ -245,6 +245,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS39698/IPV
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/IPV6.cidr
 
+# Facebook, Inc.
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32934/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32934/IPV6.cidr
+
 # Github
 parse-cidr https://api.github.com/meta
 jq --raw-output '.hooks[],.web[],.api[],.git[],.github_enterprise_importer[],.packages[],.pages[],.importer[],.actions[],.actions_macos[],.dependabot[]'

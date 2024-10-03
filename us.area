@@ -224,6 +224,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS138915/NA
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS13414/NA_US_IPV6.cidr
 
+# Facebook, Inc.
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32934/NA_US_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS32934/NA_US_IPV6.cidr
+
 # Github
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/NA_US_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/NA_US_IPV6.cidr
