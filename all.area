@@ -6,6 +6,10 @@ dig x.com
 dig twitter.com
 dig chinese.aljazeera.net
 
+#WarThunder
+dig cloud-production-01.gaijin.net
+dig cloud-production-02.gaijin.net
+
 # Telegram
 cidr https://core.telegram.org/resources/cidr.txt
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS59930/IPV4.cidr
