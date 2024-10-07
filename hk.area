@@ -252,9 +252,9 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/AS_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_HK_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_HK_IPV6.cidr
 
-# AS21030 Yandex.Cloud LLC
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21030/AS_HK_IPV4.cidr
-cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21030/AS_HK_IPV6.cidr
+# AS200350 Yandex.Cloud LLC
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200350/AS_HK_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200350/AS_HK_IPV6.cidr
 
 # for RoyLi
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v4.ra
