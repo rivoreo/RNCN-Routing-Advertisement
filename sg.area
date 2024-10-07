@@ -262,3 +262,8 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/AS_
 # AS7979 Servers.com, Inc.
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_SG_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_SG_IPV6.cidr
+
+# AS21030 Yandex.Cloud LLC
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21030/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21030/AS_SG_IPV6.cidr
+

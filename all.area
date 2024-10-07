@@ -305,6 +305,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS19679/ALL
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/ALL_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/ALL_ALL_IPV4.cidr
 
+# AS21030 Yandex.Cloud LLC
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21030/ALL_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21030/ALL_ALL_IPV4.cidr
+
 # for RoyLi
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v4.ra
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v6.ra
