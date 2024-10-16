@@ -267,3 +267,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_S
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200350/AS_SG_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200350/AS_SG_IPV6.cidr
 
+# AS46489 Twitch Interactive Inc.
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS46489/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS46489/AS_SG_IPV6.cidr
+
+# AS6939 Hurricane Electric LLC
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/AS_SG_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/AS_SG_IPV6.cidr

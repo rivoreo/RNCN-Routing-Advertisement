@@ -256,6 +256,14 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS7979/AS_H
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200350/AS_HK_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS200350/AS_HK_IPV6.cidr
 
+# AS46489 Twitch Interactive Inc.
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS46489/AS_HK_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS46489/AS_HK_IPV6.cidr
+
+# AS6939 Hurricane Electric LLC
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/AS_HK_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/AS_HK_IPV6.cidr
+
 # for RoyLi
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v4.ra
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v6.ra
