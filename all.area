@@ -263,6 +263,8 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/IPV
 # DisneyPlus
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23344/IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23344/IPV6.cidr
 
 # Netflix
 dig backlot-api.prod.netflix.net

@@ -230,6 +230,8 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS36459/EU_
 # DisneyPlus
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/EU_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS11251/EU_ALL_IPV6.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23344/EU_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS23344/EU_ALL_IPV6.cidr
 
 # Netflix
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS2906/EU_ALL_IPV4.cidr
