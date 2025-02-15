@@ -5,6 +5,7 @@ dig api.x.com
 dig x.com
 dig twitter.com
 dig chinese.aljazeera.net
+dig www.gametdb.com
 
 #WarThunder
 dig cloud-production-01.gaijin.net
