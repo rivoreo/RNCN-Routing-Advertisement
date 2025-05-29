@@ -320,6 +320,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS46489/ALL
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/ALL_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/ALL_ALL_IPV4.cidr
 
+# AS21859 Zenlayer Inc
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/ALL_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/ALL_ALL_IPV4.cidr
+
 # for RoyLi
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v4.ra
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v6.ra

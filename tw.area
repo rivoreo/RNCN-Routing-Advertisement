@@ -266,3 +266,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS46489/AS_
 # AS6939 Hurricane Electric LLC
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/AS_TW_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/AS_TW_IPV6.cidr
+
+# AS21859 Zenlayer Inc
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/AS_TW_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/AS_TW_IPV6.cidr
