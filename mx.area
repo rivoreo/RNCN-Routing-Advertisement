@@ -272,3 +272,7 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/NA_M
 # AS21859 Zenlayer Inc
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/NA_MX_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/NA_MX_IPV6.cidr
+
+# AS38631 LY Corporation (Line)
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS38631/NA_MX_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS38631/NA_MX_IPV6.cidr

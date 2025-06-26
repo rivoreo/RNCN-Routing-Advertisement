@@ -271,6 +271,10 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/AS_H
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/AS_HK_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/AS_HK_IPV6.cidr
 
+# AS38631 LY Corporation (Line)
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS38631/AS_HK_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS38631/AS_HK_IPV6.cidr
+
 # for RoyLi
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v4.ra
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v6.ra

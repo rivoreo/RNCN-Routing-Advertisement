@@ -324,6 +324,11 @@ cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS6939/ALL_
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/ALL_ALL_IPV4.cidr
 cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS21859/ALL_ALL_IPV4.cidr
 
+
+# AS38631 LY Corporation (Line)
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS38631/ALL_ALL_IPV4.cidr
+cidr https://github.com/JohnnySun/IP-Country-IP-ASN-CIDR/raw/release/AS38631/ALL_ALL_IPV4.cidr
+
 # for RoyLi
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v4.ra
 cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/Roy/roy_v6.ra
