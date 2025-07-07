@@ -336,5 +336,5 @@ cidr https://raw.githubusercontent.com/JohnnySun/Router-Rule/refs/heads/master/R
 end-fallback
 
 # Anycast
-cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v4-prefixes.txt
-cidr https://raw.githubusercontent.com/bgptools/anycast-prefixes/master/anycatch-v6-prefixes.txt
+cidr https://raw.githubusercontent.com/JohnnySun/IP-Country-IP-ASN-CIDR/refs/heads/release/filtered_anycast/anycast_ipv4_cn_filtered.txt
+cidr https://raw.githubusercontent.com/JohnnySun/IP-Country-IP-ASN-CIDR/refs/heads/release/filtered_anycast/anycast_ipv6_cn_filtered.txt
