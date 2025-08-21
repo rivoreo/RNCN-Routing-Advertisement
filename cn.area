@@ -1,2 +1,2 @@
-cidr https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute.txt
-cidr https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chn_ip_v6.txt
+cidr https://cdn.rncn.net/raw/mayaxcn/china-ip-list/master/chnroute.txt
+cidr https://cdn.rncn.net/raw/mayaxcn/china-ip-list/master/chnroute_v6.txt
